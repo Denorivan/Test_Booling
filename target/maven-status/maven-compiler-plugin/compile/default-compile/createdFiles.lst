@@ -1,0 +1,10 @@
+tests\constans\Constant.class
+tests\pages\Pages\SearchingPage.class
+tests\common\Config.class
+tests\pages\Pages\MainPage.class
+tests\pages\Pages\AttractionsListing.class
+tests\common\Actions.class
+tests\constans\Constant$UrlVariable.class
+tests\pages\base\BasePage.class
+tests\constans\Constant$TimeOutVariable.class
+tests\pages\Pages\AttractionsPage.class

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-05T16:20:24 EEST" name="All Test Suite" finished-at="2022-09-05T16:20:39 EEST" duration-ms="15133">
+    <groups>
+    </groups>
+    <test started-at="2022-09-05T16:20:24 EEST" name="D:/Test_Booling" finished-at="2022-09-05T16:20:39 EEST" duration-ms="15133">
+      <class name="tests.SecondTest.SecondTest">
+        <test-method signature="CheckingFreeCancellationAvailable()[pri:0, instance:tests.SecondTest.SecondTest@5b5caf08]" started-at="2022-09-05T16:20:31 EEST" name="CheckingFreeCancellationAvailable" finished-at="2022-09-05T16:20:39 EEST" duration-ms="7581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckingFreeCancellationAvailable -->
+      </class> <!-- tests.SecondTest.SecondTest -->
+      <class name="tests.FirstTest.FirstTest">
+        <test-method signature="CheckingTheCItyInEachCard()[pri:0, instance:tests.FirstTest.FirstTest@46044faa]" started-at="2022-09-05T16:20:24 EEST" name="CheckingTheCItyInEachCard" finished-at="2022-09-05T16:20:31 EEST" duration-ms="7533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckingTheCItyInEachCard -->
+        <test-method is-config="true" signature="close()[pri:0, instance:tests.FirstTest.FirstTest@46044faa]" started-at="2022-09-05T16:20:39 EEST" name="close" finished-at="2022-09-05T16:20:39 EEST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- tests.FirstTest.FirstTest -->
+    </test> <!-- D:/Test_Booling -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
